@@ -1,0 +1,10 @@
+[workspace]
+restore_data_on_startup = True
+save_data_on_exit = True
+save_history = True
+save_non_project_files = False
+
+[main]
+version = 0.2.0
+recent_files = ['video_reader.py', 'main.py', 'face_detector.py', 'face_tagger.py', 'frame_enhancer.py', 'video_writer.py']
+
